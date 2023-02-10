@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **ASP.NET Framework**
+- 🌱 I’m currently learning **ASP.NET Core framework**
 
 - 💬 Ask me about **React.js, Data Mining**
 
