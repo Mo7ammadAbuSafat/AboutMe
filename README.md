@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core framework**
 
-- 💬 Ask me about **React.js, Data Mining**
+- 💬 Ask me about **React.js, Data Mining, ASP.NET Core**
 
 - 📫 How to reach me **mo7ammad.abusafat@gmail.com**
 
